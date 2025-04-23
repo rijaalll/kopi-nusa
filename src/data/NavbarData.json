@@ -1,0 +1,16 @@
+{
+    "NavbarPath": [
+        {
+            "path": "About",
+            "location": "1"
+        },
+        {
+            "path": "Quote",
+            "location": "2"
+        },
+        {
+            "path": "Contact",
+            "location": "3"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+.myopacity_In { animation: opacityIn 1000ms forwards; }
+.myopacity_Out { animation: opacityOut 1000ms forwards; }
+
+.scale_1 { animation: scale_1 1000ms forwards; }
+
+@keyframes opacityIn {
+    0% {
+        opacity: 0%;
+    }
+    100% {
+        opacity: 100%;
+    }
+}
+@keyframes opacityOut {
+    0% {
+        opacity: 100%;
+    }
+    100% {
+        opacity: 0%;
+    }
+}
+@keyframes scale_1 {
+    100% {
+        transform: scale(1);
+    }
+}
+

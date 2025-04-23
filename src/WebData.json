@@ -1,0 +1,14 @@
+{
+    "data": {
+            "author": "rizal",
+            "homeTitle": "Kopi Nusa",
+            "orderTitle": "order | Kopi Nusa"
+    },
+    "tools": [
+        "TailwindCSS",
+        "React-Router-DOM",
+        "Theme-Toggles",
+        "Bootstrap Icon",
+        "Firebase"
+    ]
+}

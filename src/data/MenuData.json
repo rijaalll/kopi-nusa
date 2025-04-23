@@ -1,0 +1,33 @@
+[
+    {
+      "id": "kopi1",
+      "nama": "Kopi Tubruk",
+      "harga": 15000,
+      "gambar": "https://iili.io/3Au6txR.png"
+    },
+    {
+      "id": "kopi2",
+      "nama": "Kopi Susu Gula Aren",
+      "harga": 18000,
+      "gambar": "https://iili.io/3Au6txR.png"
+    },
+    {
+      "id": "kopi3",
+      "nama": "Espresso",
+      "harga": 20000,
+      "gambar": "https://iili.io/3Au6txR.png"
+    },
+    {
+      "id": "kopi4",
+      "nama": "Espresso",
+      "harga": 20000,
+      "gambar": "https://iili.io/3Au6txR.png"
+    },
+    {
+      "id": "kopi5",
+      "nama": "Espresso",
+      "harga": 20000,
+      "gambar": "https://iili.io/3Au6txR.png"
+    }
+  ]
+  

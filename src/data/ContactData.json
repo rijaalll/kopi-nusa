@@ -1,0 +1,32 @@
+{
+    "contact": [
+        {
+            "contact": "order",
+            "name": "order sekarang",
+            "URL": "/order",
+            "class": "bi-cart",
+            "active": true
+        },
+        {
+            "contact": "facebook",
+            "name": "ahmad Rizal",
+            "URL": "https://m.facebook.com/ahmad.rizal.590158",
+            "class": "bi-facebook",
+            "active": true
+        },
+        {
+            "contact": "instagram",
+            "name": "ahmdrizaalll",
+            "URL": "https://www.instagram.com/ahmadrizal_/",
+            "class": "bi-instagram",
+            "active": false
+        },
+        {
+            "contact": "github",
+            "name": "rijaalll",
+            "URL": "https://github.com/rijaalll",
+            "class": "bi-github",
+            "active": true
+        }
+    ]
+}
