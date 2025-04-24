@@ -7,7 +7,7 @@
 - <a href="https://icons.getbootstrap.com/">Bootstrap Icons </a> ( Icon Gratisan ) 
 - <a href="https://animate.style/">Animate.css </a> ( Animasi Alay )
 - <a href="https://toggles.dev">Theme-Toggles </a> ( Toggle Tema )
-- <a href="https://firebase.google.com">Firebase </a> ( Buat database )
+- <a href="https://firebase.google.com">Firebase </a> ( Buat database edit src/module/firebase.js )
 
 lihat <a href="https://kopi-nusa.vercel.app">preview</a>
 ### @ahmad rizal
